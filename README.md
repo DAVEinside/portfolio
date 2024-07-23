@@ -43,10 +43,4 @@ Amazon Review Analytics is an innovative NLP-based system designed to analyze an
 - **Databases and Data Storage:** SQL, Elasticsearch, Kibana
 - **Other Relevant Tools and Libraries:** NumPy, Pandas, Streamlit, Heroku
 
-## Installation
 
-To set up the portfolio locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/DAVEinside/portfolio.git
